@@ -1,0 +1,27 @@
+%YAML 1.1
+--- !AnimSeq &4
+name: intro_ts
+guid: {a: 4666072002914738984, b: 5565992285021089435}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--0.imageatlas}
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--1.imageatlas}
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--2.imageatlas}
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--3.imageatlas}
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--4.imageatlas}
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--5.imageatlas}
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--6.imageatlas}
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--7.imageatlas}
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--8.imageatlas}
+  - {localId: 1, path: bc03b893-44a5-5b27-6069-5c2b2fe43ae0--9.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

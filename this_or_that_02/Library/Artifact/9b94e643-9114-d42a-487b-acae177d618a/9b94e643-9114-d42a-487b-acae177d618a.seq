@@ -1,0 +1,43 @@
+%YAML 1.1
+--- !AnimSeq &5
+name: overlay_ts
+guid: {a: 5276809243684201440, b: 15241426702935652775}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--0.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--1.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--2.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--3.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--4.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--5.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--6.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--7.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--8.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--9.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--10.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--11.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--12.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--13.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--14.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--15.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--16.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--17.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--18.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--19.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--20.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--21.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--22.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--23.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--24.imageatlas}
+  - {localId: 1, path: 9b94e643-9114-d42a-487b-acae177d618a--25.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "917bfac8-88fd-d198-e8d1-35170b60f76b",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "gradient-screen",
+    "objGuid": "Guid(5417417841998651359, 8368058952639128507)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 2,
+    "quality": 0,
+    "maxResolution": 1024,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

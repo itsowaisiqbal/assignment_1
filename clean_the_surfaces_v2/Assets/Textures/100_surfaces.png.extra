@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "13c4bf83-73dd-de45-d2f5-84db78876bba",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "100_surfaces",
+    "objGuid": "Guid(5550173299182494176, 1158053832815207059)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,43 @@
+%YAML 1.1
+--- !AnimSeq &3
+name: overlay_ts
+guid: {a: 5104428279875208160, b: 1790526984058027198}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--0.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--1.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--2.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--3.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--4.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--5.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--6.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--7.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--8.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--9.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--10.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--11.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--12.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--13.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--14.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--15.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--16.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--17.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--18.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--19.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--20.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--21.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--22.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--23.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--24.imageatlas}
+  - {localId: 3, path: 53739a31-c74f-7856-5bd9-cc2aa72386d4--25.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

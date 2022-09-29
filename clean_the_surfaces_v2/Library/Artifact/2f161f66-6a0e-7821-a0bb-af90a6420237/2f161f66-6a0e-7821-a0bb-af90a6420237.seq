@@ -1,0 +1,35 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: spray_ts
+guid: {a: 5689242751580731631, b: 11063778563998661553}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--0.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--1.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--2.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--3.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--4.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--5.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--6.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--7.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--8.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--9.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--10.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--11.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--12.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--13.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--14.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--15.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--16.imageatlas}
+  - {localId: 1, path: 2f161f66-6a0e-7821-a0bb-af90a6420237--17.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

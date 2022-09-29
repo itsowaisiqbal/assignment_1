@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "2986b2a5-c9cf-2e13-0823-b432fce083ba",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bedroom_mask_3",
+    "objGuid": "Guid(5405026710310786836, 1544265167454043289)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

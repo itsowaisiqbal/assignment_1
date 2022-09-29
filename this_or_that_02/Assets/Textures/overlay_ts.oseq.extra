@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "9b94e643-9114-d42a-487b-acae177d618a",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "overlay_ts",
+    "objGuid": "Guid(5276809243684201440, 15241426702935652775)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "e84d4569-928b-1839-bcd8-89d34d9cfcb2",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bedroom_bg",
+    "objGuid": "Guid(4693758410199362512, 17696555305042733227)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,47 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: right_ts
+guid: {a: 5486912505742595977, b: 10545141715126527375}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--0.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--1.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--2.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--3.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--4.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--5.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--6.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--7.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--8.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--9.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--10.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--11.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--12.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--13.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--14.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--15.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--16.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--17.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--18.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--19.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--20.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--21.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--22.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--23.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--24.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--25.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--26.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--27.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--28.imageatlas}
+  - {localId: 1, path: e48465e8-0c67-a0ca-29b6-87c65ca7cc9b--29.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

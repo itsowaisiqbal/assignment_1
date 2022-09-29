@@ -1,0 +1,1 @@
+{"uuid":"1056d8eb-e819-008e-941a-bc3f0b399b73","type":"texture","subType":"segmentation","rtti":"RenderTexture","properties":{"segmentationType":"body","invert":false,"smoothness":0.75,"useCutoutTexture":true,"cutoutTexture":"custom://Default_Camera_Input","cutoutGuid":{"_default":{"a":"00000000-0000-0000-0000-00000000004b","b":""}}},"path":"Textures/user_mask.jsasset"}

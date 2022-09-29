@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "1ae1273c-c0ce-0885-40fb-9fc3988e08ba",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "counter_",
+    "objGuid": "Guid(5080021117659656709, 11842056517717678741)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

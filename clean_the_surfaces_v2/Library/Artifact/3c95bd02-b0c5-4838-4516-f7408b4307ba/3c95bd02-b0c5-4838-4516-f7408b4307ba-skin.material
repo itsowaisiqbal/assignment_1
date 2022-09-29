@@ -1,0 +1,34 @@
+%YAML 1.1
+--- !Material &1
+name: bottle_mat
+guid: {a: 5528432205439368238, b: 7437687133495326355}
+xshader: {localId: 1, path: 3c95bd02-b0c5-4838-4516-f7408b4307ba--3c95bd02-b0c5-4838-4516-f7408b4307ba.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 5298267696395001863, b: 50861741640964795}
+  floatmap:
+    __class: Map
+    _Rotation: 0
+  vec4map:
+    __class: Map
+    _AlbedoColor: {x: 1, y: 1, z: 1, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+    _Offset: {x: 0, y: 0}
+    _Tiling: {x: 1, y: 1}
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _AlbedoTexture: {localId: 1, path: 1b0299ca-cd7d-f582-a04c-bc86cf922d08--1b0299ca-cd7d-f582-a04c-bc86cf922d08.png}
+    _OpacityTexture: {localId: 1, path: custom://1056d8eb-e819-008e-941a-bc3f0b399b73}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_AMAZING_USE_BONES: !<str> 1
+mshaderPath: ""

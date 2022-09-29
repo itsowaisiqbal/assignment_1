@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "1b0299ca-cd7d-f582-a04c-bc86cf922d08",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "dettol_bottle",
+    "objGuid": "Guid(4875449460361676593, 17952969625844802193)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

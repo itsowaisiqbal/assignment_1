@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "0b7bfb40-7a25-edb2-28b0-5da1bce26e9d",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "dettol_ts",
+    "objGuid": "Guid(5262342772849764303, 959961021360282536)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

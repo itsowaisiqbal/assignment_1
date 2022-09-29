@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "confetti_ts",
+    "objGuid": "Guid(4837439861403788080, 12678945282212228239)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

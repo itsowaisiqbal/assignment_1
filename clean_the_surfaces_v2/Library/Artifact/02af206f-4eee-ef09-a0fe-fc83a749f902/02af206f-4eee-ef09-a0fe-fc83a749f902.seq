@@ -1,0 +1,23 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: counter
+guid: {a: 5563997718671996181, b: 14964776485589087880}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 02af206f-4eee-ef09-a0fe-fc83a749f902--0.imageatlas}
+  - {localId: 1, path: 02af206f-4eee-ef09-a0fe-fc83a749f902--1.imageatlas}
+  - {localId: 1, path: 02af206f-4eee-ef09-a0fe-fc83a749f902--2.imageatlas}
+  - {localId: 1, path: 02af206f-4eee-ef09-a0fe-fc83a749f902--3.imageatlas}
+  - {localId: 1, path: 02af206f-4eee-ef09-a0fe-fc83a749f902--4.imageatlas}
+  - {localId: 1, path: 02af206f-4eee-ef09-a0fe-fc83a749f902--5.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

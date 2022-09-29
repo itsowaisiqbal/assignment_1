@@ -1,0 +1,101 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: confetti_ts
+guid: {a: 4837439861403788080, b: 12678945282212228239}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--0.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--1.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--2.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--3.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--4.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--5.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--6.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--7.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--8.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--9.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--10.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--11.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--12.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--13.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--14.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--15.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--16.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--17.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--18.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--19.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--20.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--21.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--22.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--23.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--24.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--25.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--26.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--27.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--28.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--29.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--30.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--31.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--32.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--33.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--34.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--35.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--36.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--37.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--38.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--39.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--40.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--41.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--42.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--43.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--44.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--45.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--46.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--47.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--48.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--49.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--50.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--51.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--52.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--53.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--54.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--55.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--56.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--57.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--58.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--59.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--60.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--61.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--62.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--63.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--64.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--65.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--66.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--67.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--68.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--69.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--70.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--71.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--72.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--73.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--74.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--75.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--76.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--77.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--78.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--79.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--80.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--81.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--82.imageatlas}
+  - {localId: 1, path: 2f4a382b-bfdd-547b-9ee1-e5cd0c26a17e--83.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

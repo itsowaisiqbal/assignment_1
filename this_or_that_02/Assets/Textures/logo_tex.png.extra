@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "f224a2b6-6a4d-c179-0114-947c405175da",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "logo_tex",
+    "objGuid": "Guid(5685162195873425517, 4180692827811843506)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 2,
+    "quality": 0,
+    "maxResolution": 1024,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

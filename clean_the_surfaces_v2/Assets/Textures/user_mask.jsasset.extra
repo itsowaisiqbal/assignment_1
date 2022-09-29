@@ -1,0 +1,23 @@
+[
+  {
+    "guid": {
+      "a": "95f74e12-355c-340d-3126-11ac1dc3c790",
+      "b": ""
+    },
+    "extraType": "ResItemSegmentationAsset",
+    "name": "user_mask",
+    "objGuid": "Guid(5016881483250451098, 3509674967123050882)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "type": "texture",
+    "subtype": "segmentation",
+    "propertyMap": [
+      {
+        "name": "cutoutTexture",
+        "guid": "00000000-0000-0000-0000-00000000004b"
+      }
+    ]
+  }
+]
